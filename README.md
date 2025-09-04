@@ -1,4 +1,4 @@
-# BloggingCoder - MERN Stack APP
+# HeadBuzzer- MERN Stack APP - create your blogs
 
 This is a multi-user blogging platform built with Node, React, Next.js, Express, and MongoDB.
 
